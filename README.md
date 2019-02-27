@@ -16,4 +16,4 @@ npm install
 ./run.sh ./src/hello
 ```
 
-The workshop instructions will be divided between the presentation and the exercises.
+If you see a nice friendly message show up in your browser after running that command, then you're good to go!
