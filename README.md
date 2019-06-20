@@ -29,4 +29,4 @@ Here are some instructions for setting up Atom with autocompletion for Elm 0.19:
 
 https://incrementalelm.com/learn/editor-config
 
-You can also setup the Elm Language Server, which will give you autocompletion for your language of choice. Just follow the [Elm Language Server setup instructions for different editors here](https://github.com/elm-tooling/elm-language-server#editor-support).
+You can also setup the Elm Language Server, which will give you autocompletion for your editor of choice (including VS Code and Vim). Just follow the [Elm Language Server setup instructions for different editors here](https://github.com/elm-tooling/elm-language-server#editor-support).
